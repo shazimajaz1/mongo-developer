@@ -1,3 +1,8 @@
+## A version to be improved from the basic robomongo
+Okay, so hear me out, the basic Robo 3T do not have many good features that it could have had. I know studio 3T does, then that is not really free, so I am starting this fork to add all those extra features offered by Studio 3T and leave them available for the Open Source community to use. 
+
+## This Readme still needs an update, so don't judge it for now!
+
 ## Important
 
 If you are using Studio 3T, please file any feedback on the [Studio 3T Feedback](https://studio3t.com/feedback/) page. If you are using Studio 3T Free, there is the [3T Community](https://community.studio3t.com/) for discussions with a [dedicated Free section](https://community.studio3t.com/c/studio-3t-free/13). Studio 3T does not monitor this repository for Studio 3T issues.
